@@ -1,0 +1,10 @@
+Console.Write("Введите число a: ");
+int number1 = int.Parse(Console.ReadLine() ?? "");
+Console.Write("Введите число b: ");
+int number2 = int.Parse(Console.ReadLine() ?? "");
+Console.Write("Введите число c: ");
+int number3 = int.Parse(Console.ReadLine() ?? "");
+int max = number1;
+if(number2 > number1) max = number2;
+if(number3 > number2) max = number3;
+    Console.WriteLine($"{number1}; {number2}; {number3} -> {max}");

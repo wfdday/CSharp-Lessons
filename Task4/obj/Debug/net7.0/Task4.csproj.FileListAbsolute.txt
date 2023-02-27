@@ -1,0 +1,15 @@
+C:\Dev\GB\CSharp\CSharp-Lessons\Task4\obj\Debug\net7.0\Task4.csproj.AssemblyReference.cache
+C:\Dev\GB\CSharp\CSharp-Lessons\Task4\obj\Debug\net7.0\Task4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\GB\CSharp\CSharp-Lessons\Task4\obj\Debug\net7.0\Task4.AssemblyInfoInputs.cache
+C:\Dev\GB\CSharp\CSharp-Lessons\Task4\obj\Debug\net7.0\Task4.AssemblyInfo.cs
+C:\Dev\GB\CSharp\CSharp-Lessons\Task4\obj\Debug\net7.0\Task4.csproj.CoreCompileInputs.cache
+C:\Dev\GB\CSharp\CSharp-Lessons\Task4\bin\Debug\net7.0\Task4.exe
+C:\Dev\GB\CSharp\CSharp-Lessons\Task4\bin\Debug\net7.0\Task4.deps.json
+C:\Dev\GB\CSharp\CSharp-Lessons\Task4\bin\Debug\net7.0\Task4.runtimeconfig.json
+C:\Dev\GB\CSharp\CSharp-Lessons\Task4\bin\Debug\net7.0\Task4.dll
+C:\Dev\GB\CSharp\CSharp-Lessons\Task4\bin\Debug\net7.0\Task4.pdb
+C:\Dev\GB\CSharp\CSharp-Lessons\Task4\obj\Debug\net7.0\Task4.dll
+C:\Dev\GB\CSharp\CSharp-Lessons\Task4\obj\Debug\net7.0\refint\Task4.dll
+C:\Dev\GB\CSharp\CSharp-Lessons\Task4\obj\Debug\net7.0\Task4.pdb
+C:\Dev\GB\CSharp\CSharp-Lessons\Task4\obj\Debug\net7.0\Task4.genruntimeconfig.cache
+C:\Dev\GB\CSharp\CSharp-Lessons\Task4\obj\Debug\net7.0\ref\Task4.dll

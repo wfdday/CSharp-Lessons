@@ -1,0 +1,15 @@
+C:\Dev\GB\CSharp\CSharp-Lessons\Task2\bin\Debug\net7.0\task2.exe
+C:\Dev\GB\CSharp\CSharp-Lessons\Task2\bin\Debug\net7.0\task2.deps.json
+C:\Dev\GB\CSharp\CSharp-Lessons\Task2\bin\Debug\net7.0\task2.runtimeconfig.json
+C:\Dev\GB\CSharp\CSharp-Lessons\Task2\bin\Debug\net7.0\task2.dll
+C:\Dev\GB\CSharp\CSharp-Lessons\Task2\bin\Debug\net7.0\task2.pdb
+C:\Dev\GB\CSharp\CSharp-Lessons\Task2\obj\Debug\net7.0\task2.csproj.AssemblyReference.cache
+C:\Dev\GB\CSharp\CSharp-Lessons\Task2\obj\Debug\net7.0\task2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\GB\CSharp\CSharp-Lessons\Task2\obj\Debug\net7.0\task2.AssemblyInfoInputs.cache
+C:\Dev\GB\CSharp\CSharp-Lessons\Task2\obj\Debug\net7.0\task2.AssemblyInfo.cs
+C:\Dev\GB\CSharp\CSharp-Lessons\Task2\obj\Debug\net7.0\task2.csproj.CoreCompileInputs.cache
+C:\Dev\GB\CSharp\CSharp-Lessons\Task2\obj\Debug\net7.0\task2.dll
+C:\Dev\GB\CSharp\CSharp-Lessons\Task2\obj\Debug\net7.0\refint\task2.dll
+C:\Dev\GB\CSharp\CSharp-Lessons\Task2\obj\Debug\net7.0\task2.pdb
+C:\Dev\GB\CSharp\CSharp-Lessons\Task2\obj\Debug\net7.0\task2.genruntimeconfig.cache
+C:\Dev\GB\CSharp\CSharp-Lessons\Task2\obj\Debug\net7.0\ref\task2.dll
