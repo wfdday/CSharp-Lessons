@@ -1,7 +1,7 @@
 Console.Clear();
 
 Console.WriteLine("Введите число N:");
-int n = int.Parse(Console.ReadLine());
+int n = int.Parse(Console.ReadLine() ?? "");
 
 Console.Write("{0} -> ", n);
 for (int i = 1; i <= n; i++)
