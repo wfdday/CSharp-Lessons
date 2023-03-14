@@ -1,10 +1,10 @@
 Console.Clear();
 
 Console.Write("Введите число A: ");
-int a = int.Parse(Console.ReadLine());
+int a = int.Parse(Console.ReadLine() ?? "");
 
 Console.Write("Введите число B: ");
-int b = int.Parse(Console.ReadLine());
+int b = int.Parse(Console.ReadLine() ?? "");
 
 int result = 1;
 
