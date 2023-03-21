@@ -4,7 +4,7 @@ int count = 0;
 string numbers = "";
 
 Console.WriteLine("Введите числа, разделенные пробелом:");
-string input = Console.ReadLine();
+string input = Console.ReadLine() ?? "";
 
 string[] nums = input.Split(' ');
 foreach (string num in nums)
